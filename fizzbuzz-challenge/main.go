@@ -34,6 +34,8 @@ func main() {
 			//fmt.Printf("%v = buzz\n", i)
 			continue
 		}
+
+		fmt.Println(i)
 	}
 
 }
